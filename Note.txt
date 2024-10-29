@@ -1,0 +1,3 @@
+1. Platform-agnostic framework adalah sebuah framework yang dirancang agar bisa berjalan pada berbagai platform atau sistem operasi tanpa memerlukan modifikasi signifikan. 
+
+2. ada 2 pendekatan manipulasi response,yaitu : standard, library-specific 
