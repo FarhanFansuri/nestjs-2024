@@ -13,15 +13,3 @@ NestJS adalah framework Node.js yang menggunakan TypeScript dan mengikuti pola a
 - Programmer Zaman Now : Menggunakan channel YT Programmwr Zaman Now sebagai referensi
 - Documentation : Menggunakan documentation nestjs sebagai referensi
 
-## Struktur Proyek
-
-Proyek ini mengikuti struktur dasar aplikasi NestJS:
-
-```plaintext
-src/
-├── app.module.ts          # Modul utama aplikasi
-├── main.ts                # Titik masuk aplikasi
-├── controllers/           # Controller (route dan endpoint)
-├── services/              # Service (logika bisnis)
-├── modules/               # Modul tambahan
-└── common/                # Utilities, DTO, dll.
