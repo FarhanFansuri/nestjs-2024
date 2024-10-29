@@ -4,16 +4,6 @@ Selamat datang di **Repository Belajar NestJS**! Repository ini dibuat untuk mem
 
 ---
 
-## Daftar Isi
-
-1. [Tentang NestJS](#tentang-nestjs)
-2. [Struktur Proyek](#struktur-proyek)
-3. [Memulai](#memulai)
-4. [Script yang Tersedia](#script-yang-tersedia)
-5. [Tujuan Pembelajaran](#tujuan-pembelajaran)
-6. [Referensi](#referensi)
-
----
 
 ## Tentang NestJS
 
