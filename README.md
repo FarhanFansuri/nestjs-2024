@@ -9,6 +9,10 @@ Selamat datang di **Repository Belajar NestJS**! Repository ini dibuat untuk mem
 
 NestJS adalah framework Node.js yang menggunakan TypeScript dan mengikuti pola arsitektur modular yang terinspirasi dari Angular. Framework ini menyediakan fondasi yang kuat untuk membangun aplikasi server-side yang kompleks dan scalable dengan fitur seperti dependency injection, modularisasi, dan middleware.
 
+## Branch Repository
+- Programmer Zaman Now : Menggunakan channel YT Programmwr Zaman Now sebagai referensi
+- Documentation : Menggunakan documentation nestjs sebagai referensi
+
 ## Struktur Proyek
 
 Proyek ini mengikuti struktur dasar aplikasi NestJS:
